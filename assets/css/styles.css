@@ -2,9 +2,18 @@
     margin: 0;
     padding: 0;
 }
-
-body{
+.container{
     background-image: url(../imgs/background.jpg);
     background-size: cover;
+}
+
+.carousel-item{
+    height: 100vh;
+}
+
+
+.community_logo{
+    border-radius:200px;
+    border-color: solid 2px gray;
 }
 
