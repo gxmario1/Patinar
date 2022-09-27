@@ -4,26 +4,29 @@
 }
 
 body{
-    color: white;
-    background-color:#8290B6;
+    color:#E3C6AF;
 }
 
+main{
+    background-color: #7E97A7;
+}
 
 .carousel-item img{
     object-position: bottom;
 }
 
-.benefits{
-    margin: 40px 0px;
-    padding: 30px;
-}
+.text_benefits{
+    background-color: #524632;
+    border-radius:20px;
+} 
 
 .benefits img{
-    border-radius: 20px;
+    border-radius: 70px;
 }
 
-.rigths{
-
+.text_rigths{
+    background-color: #524632;
+    border-radius:20px;
 }
 
 .rigths img{
