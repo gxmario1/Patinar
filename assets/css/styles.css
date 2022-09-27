@@ -34,8 +34,13 @@ main{
 }
 
 .communities{
+    color:#524632;
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.fa-brands{
+    color:#524632;
 }
 
 .community img{
