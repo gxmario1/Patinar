@@ -11,14 +11,6 @@ main{
     background-color: #7E97A7;
 }
 
-.carrusel{
-    height: 100vh;
-}
-
-.carousel-item img{
-    object-position: bottom;
-}
-
 .text_benefits{
     background-color: #524632;
     border-radius:20px;
