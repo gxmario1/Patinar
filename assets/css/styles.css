@@ -8,7 +8,7 @@ body{
 }
 
 main{
-    background-color: #7E97A7;
+    background: linear-gradient(135deg, rgb(116, 86, 30) 23%, rgb(133, 124, 115) 100%); 
 }
 
 .text_benefits{
@@ -17,7 +17,7 @@ main{
 } 
 
 .benefits img{
-    border-radius: 70px;
+    border-radius: 140px;
 }
 
 .text_rigths{
@@ -26,7 +26,7 @@ main{
 }
 
 .rigths img{
-    border-radius: 20px;
+    border-radius: 140px;
 }
 
 .referencia{
